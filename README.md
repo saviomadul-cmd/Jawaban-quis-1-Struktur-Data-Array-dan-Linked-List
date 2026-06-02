@@ -7,7 +7,7 @@ Array memiliki akses data dengan kompleksitas waktu O(1) karena data disimpan se
 2. Analisis Efisiensi Operasi Manipulasi
 Linked List lebih unggul dibandingkan Array pada operasi penyisipan dan penghapusan ketika data sering berubah atau penyisipan dilakukan di tengah data.
 
-Pada Array, penyisipan dan penghapusan memerlukan pergeseran elemen sehingga membutuhkan waktu O(n). Sedangkan pada Linked List cukup mengubah pointer antar node tanpa memindahkan data lain. Jika posisi node sudah diketahui maka operasi dapat dilakukan dalam O(1).
+    Pada Array, penyisipan dan penghapusan memerlukan pergeseran elemen sehingga membutuhkan waktu O(n). Sedangkan pada          Linked List cukup mengubah pointer antar node tanpa memindahkan data lain. Jika posisi node sudah diketahui maka operasi     dapat dilakukan dalam O(1).
 
 3. Konsep Daftar Berantai Ganda
 Node pada Double Linked List terdiri dari:
