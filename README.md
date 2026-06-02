@@ -12,10 +12,10 @@ Linked List lebih unggul dibandingkan Array pada operasi penyisipan dan penghapu
 3. Konsep Daftar Berantai Ganda
 Node pada Double Linked List terdiri dari:
 
-Data
-Penunjuk selanjutnya
-Penunjuk sebelumnya
-Pointer tambahan membuat penggunaan memori lebih besar dibandingkan Single Linked List. Namun, penelusuran dapat dilakukan dua arah, maju dan mundur, sehingga lebih fleksibel dan mempermudah operasi penghapusan.
+    Data
+    Penunjuk selanjutnya
+    Penunjuk sebelumnya
+    Pointer tambahan membuat penggunaan memori lebih besar dibandingkan Single Linked List. Namun, penelusuran dapat             dilakukan dua arah, maju dan mundur, sehingga lebih fleksibel dan mempermudah operasi penghapusan.
 
 4. Mekanisme Linked List Melingkar
 Circular Linked List memiliki node terakhir yang menunjuk kembali ke node pertama sehingga membentuk lingkaran. Berbeda dengan Linked List biasa yang node terakhirnya bernilai NULL.
