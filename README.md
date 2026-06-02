@@ -2,7 +2,7 @@
 1. Karakteristik Memori dan Akses Data
 Array memiliki akses data dengan kompleksitas waktu O(1) karena data disimpan secara berurutan (kontinu) di memori. Setiap elemen memiliki indeks sehingga alamat memori dapat dihitung langsung. Oleh karena itu, elemen dapat diakses tanpa menelusuri data lain.
 
-Sedangkan pada Single Linked List, data disimpan secara tidak berurutan (non-kontinu). Setiap node hanya memiliki data dan pointer ke node berikutnya. Untuk mencari elemen tertentu harus menelusuri node satu per satu dari awal sehingga kompleksitas ketersediaan O(n).
+   Sedangkan pada Single Linked List, data disimpan secara tidak berurutan (non-kontinu). Setiap node hanya memiliki data       dan pointer ke node berikutnya. Untuk mencari elemen tertentu harus menelusuri node satu per satu dari awal sehingga         kompleksitas ketersediaan O(n).
 
 2. Analisis Efisiensi Operasi Manipulasi
 Linked List lebih unggul dibandingkan Array pada operasi penyisipan dan penghapusan ketika data sering berubah atau penyisipan dilakukan di tengah data.
