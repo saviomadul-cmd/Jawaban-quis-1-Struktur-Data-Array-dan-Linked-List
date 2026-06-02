@@ -20,9 +20,9 @@ Node pada Double Linked List terdiri dari:
 4. Mekanisme Linked List Melingkar
 Circular Linked List memiliki node terakhir yang menunjuk kembali ke node pertama sehingga membentuk lingkaran. Berbeda dengan Linked List biasa yang node terakhirnya bernilai NULL.
 
-Contoh penggunaan Circular Linked List adalah sistem Round Robin Scheduling karena proses dapat berjalan terus menerus secara bergiliran.
+    Contoh penggunaan Circular Linked List adalah sistem Round Robin Scheduling karena proses dapat berjalan terus menerus       secara bergiliran.
 
 5. Array Dinamis di Python
 Daftar Python menggunakan Dynamic Array. Ketika kapasitas penuh saat append dilakukan, Python akan membuat array baru dengan ukuran lebih besar lalu menyalin seluruh data dari array lama ke array baru.
 
-Proses ini memerlukan waktu O(n) karena data harus dikontrol ulang, tetapi penambahan tetap dianggap O(1) secara rata-rata (diamortisasi).
+    Proses ini memerlukan waktu O(n) karena data harus dikontrol ulang, tetapi penambahan tetap dianggap O(1) secara rata-       rata (diamortisasi).
