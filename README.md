@@ -1,4 +1,6 @@
 # Jawaban-quis-1-Struktur-Data-Array-dan-Linked-List
+Nama:Teodorus Arivin Madul
+Nim:2501010341
 1. Karakteristik Memori dan Akses Data
 Array memiliki akses data dengan kompleksitas waktu O(1) karena data disimpan secara berurutan (kontinu) di memori. Setiap elemen memiliki indeks sehingga alamat memori dapat dihitung langsung. Oleh karena itu, elemen dapat diakses tanpa menelusuri data lain.
 
